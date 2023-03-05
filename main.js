@@ -1,3 +1,4 @@
+//npx vite pour lancer localement //http://localhost:5173/charts-nadia/
 
 import Chart from 'chart.js/auto';
 
